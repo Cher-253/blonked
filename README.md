@@ -15,3 +15,7 @@ One thing that we are both proud of is that, we were able to create our entire p
 ## What's next for Blonked!
 
 We are definitely looking forward to developing Blonked! in a more larger scale by roping in volunteers and taking feedback from real social media users who have been facing these issues on a daily basis. We expect to perfect our code and bring in more features and hope to enhance its overall usability. 
+
+
+https://devpost.com/software/blonked
+https://www.youtube.com/watch?v=uFKNZQbL48o
